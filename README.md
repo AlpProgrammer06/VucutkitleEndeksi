@@ -1,2 +1,2 @@
 # VucutkitleEndeksi
-##java kod
+java kod
